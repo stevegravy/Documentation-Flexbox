@@ -72,4 +72,8 @@ https://24ways.org/2015/grid-flexbox-box-alignment-our-new-system-for-layout/
 
 Un article intéressant sur le parallèle fait entre uen mise en page de gallerie photo avec une grille ou avec Flexbox. A réserver si on a du temps. On peut éventuellement juste placer un lien dans les ressources de la page GitHub que l'on créera pour notre veille?
 
+## Demo interactive de Flexbox en action
 
+http://bennettfeely.com/flexplorer/
+
+Changement des propriété et affichage en direct de la répercution sur la mise en page.
